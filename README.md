@@ -1,4 +1,4 @@
 # XBEE-to-Pixhawk
 XBEE radio to Pixhawk (DF13 6P Connector)
 
-[https://oshpark.com/projects/f34CUZdK](https://oshpark.com/projects/f34CUZdK)
+[https://oshpark.com/shared_projects/0mKmL7xx](https://oshpark.com/shared_projects/0mKmL7xx)
